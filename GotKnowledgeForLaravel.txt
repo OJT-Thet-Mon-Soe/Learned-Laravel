@@ -1,0 +1,16 @@
+CRUD (create,read,update,delete)
+validation (normal)
+validation (request file)
+
+laravel breeze (For Authentication)
+
+Eloquent(belongsto)
+
+php-mailer
+laravel-dompdf (download)
+laravel-excel (export,import)
+laravel-stripe
+
+(Chart Js) to show data from databases
+
+-middleware
