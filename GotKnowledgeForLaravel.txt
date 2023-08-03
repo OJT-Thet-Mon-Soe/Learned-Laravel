@@ -15,4 +15,7 @@ laravel-stripe
 
 -middleware
 
+(My self learning)
 August 3 , 2023 => video download
+
+The things that I want to -> rating,chart,authentication,authenrization,
