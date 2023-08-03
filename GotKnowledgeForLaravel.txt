@@ -17,5 +17,6 @@ laravel-stripe
 
 (My self learning)
 August 3 , 2023 => video download
+August 3 , 2023 => password with eyes with javascript for UI
 
-The things that I want to -> rating,chart,authentication,authenrization,password with eyes
+The things that I want to -> rating,chart,authentication,authenrization
