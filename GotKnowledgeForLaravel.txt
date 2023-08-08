@@ -21,5 +21,6 @@ August 3 , 2023 => password with eyes with javascript for UI
 August 4 , 2023 => Laravel Breeze authentication
 August 5 , 2023 => only seeder
 August 6 , 2023 => Autherization
+August 8 , 2023 => Laravel Guard For multilogin
 
 The things that I want to -> rating,chart
